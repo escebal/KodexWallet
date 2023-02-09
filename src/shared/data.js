@@ -1,0 +1,38 @@
+export const coins = [
+  {
+    image: require('../../assets/icons/bitcoinColor.png'),
+    name: 'Bitcon',
+    price: '$0.00',
+    percentage: '+3.7%',
+    value: '1.2 BTC',
+    finalPrice: '$0.00',
+    id: '001',
+  },
+  {
+    image: require('../../assets/icons/bitcoinColor.png'),
+    name: 'Etherum',
+    price: '$0.00',
+    percentage: '+3.7%',
+    value: '1.2 BTC',
+    finalPrice: '$0.00',
+    id: '002',
+  },
+  {
+    image: require('../../assets/icons/bitcoinColor.png'),
+    name: 'Dogecoin',
+    price: '$0.00',
+    percentage: '+3.7%',
+    value: '1.2 BTC',
+    finalPrice: '$0.00',
+    id: '003',
+  },
+  {
+    image: require('../../assets/icons/bitcoinColor.png'),
+    name: 'Bitcon',
+    price: '$0.00',
+    percentage: '+3.7%',
+    value: '1.2 BTC',
+    finalPrice: '$0.00',
+    id: '004',
+  },
+];
